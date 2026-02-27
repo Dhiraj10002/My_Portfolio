@@ -62,7 +62,7 @@ MERN Developer opportunities.
             <div className="rtext">My Resume</div>
             <div className="okay">
               <a
-                href="https://drive.google.com/file/d/1X4z1tmv4E3A8iuawO6N12vPMv_96TExE/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1zH_IuzbZQz3MTeyvWdPYCL0UOC_-E1RH/view?usp=drive_link"
                 target="__blank"
               >
                 CLICK HERE TO VIEW PDF
